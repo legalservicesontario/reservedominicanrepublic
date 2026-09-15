@@ -1,0 +1,222 @@
+[
+  {
+    "id": "RES-000001",
+    "listing_id": "RES-000001",
+    "source": "Reserve",
+    "source_url": "",
+    "slug": "cocotal-golf-country-club-luxury-villa",
+    "title": "Cocotal Golf & Country Club Luxury Villa",
+    "status": "ACTIVE",
+    "transaction_type": "RENTAL",
+    "property_type": "VILLA",
+    "featured": true,
+
+    "price": 2800,
+    "currency": "USD",
+    "price_period": "MONTH",
+
+    "address": "",
+    "neighborhood": "Cocotal Golf & Country Club",
+    "location": "Cocotal Golf & Country Club, Bávaro, Punta Cana",
+    "city": "Bávaro",
+    "province": "La Altagracia",
+    "country": "Dominican Republic",
+    "postal_code": "",
+
+    "latitude": null,
+    "longitude": null,
+
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "half_bathrooms": 1,
+
+    "living_area": null,
+    "living_area_unit": "sqft",
+
+    "lot_area": null,
+    "lot_area_unit": "sqft",
+
+    "year_built": null,
+
+    "description": "Beautiful luxury villa located in Cocotal Golf & Country Club in Bávaro, Punta Cana. The property offers a tropical residential setting with access to golf, beaches and resort amenities.",
+
+    "amenities": [
+      "Golf Community",
+      "Gated Community",
+      "Tropical Setting",
+      "Beach Access",
+      "Parking Included"
+    ],
+
+    "financing_available": false,
+    "financing_details": "",
+
+    "rental_income": null,
+    "rental_income_currency": "USD",
+    "rental_income_period": null,
+    "roi": null,
+
+    "image_urls": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80"
+    ],
+
+    "video_urls": [],
+
+    "agent_name": "",
+    "agent_company": "Reserve Real Estate",
+    "agent_phone": "+1 647-848-5997",
+    "agent_email": "",
+    "whatsapp": "+16478485997",
+
+    "listing_url": "property-cocotal-villa.html",
+
+    "created_at": "",
+    "updated_at": "",
+    "scraped_at": "",
+    "last_verified": ""
+  },
+
+  {
+    "id": "RES-000002",
+    "listing_id": "RES-000002",
+    "source": "Reserve",
+    "source_url": "",
+    "slug": "beachside-condo-5-mins-from-ocean",
+    "title": "Beachside Condo 5-Mins from Ocean",
+    "status": "ACTIVE",
+    "transaction_type": "RENTAL",
+    "property_type": "CONDO",
+    "featured": true,
+
+    "price": 1600,
+    "currency": "USD",
+    "price_period": "MONTH",
+
+    "address": "",
+    "neighborhood": "Los Corales",
+    "location": "Los Corales, Dominican Republic",
+    "city": "Los Corales",
+    "province": "La Altagracia",
+    "country": "Dominican Republic",
+    "postal_code": "",
+
+    "latitude": null,
+    "longitude": null,
+
+    "bedrooms": null,
+    "bathrooms": null,
+    "half_bathrooms": null,
+
+    "living_area": null,
+    "living_area_unit": "sqft",
+
+    "lot_area": null,
+    "lot_area_unit": "sqft",
+
+    "year_built": null,
+
+    "description": "",
+
+    "amenities": [],
+
+    "financing_available": false,
+    "financing_details": "",
+
+    "rental_income": null,
+    "rental_income_currency": "USD",
+    "rental_income_period": null,
+    "roi": null,
+
+    "image_urls": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80"
+    ],
+
+    "video_urls": [],
+
+    "agent_name": "",
+    "agent_company": "Reserve Real Estate",
+    "agent_phone": "+1 647-848-5997",
+    "agent_email": "",
+    "whatsapp": "+16478485997",
+
+    "listing_url": "property-los-corales-condo.html",
+
+    "created_at": "",
+    "updated_at": "",
+    "scraped_at": "",
+    "last_verified": ""
+  },
+
+  {
+    "id": "RES-000003",
+    "listing_id": "RES-000003",
+    "source": "Reserve",
+    "source_url": "",
+    "slug": "tamarindo-oceanfront-luxury-reserve-villa",
+    "title": "Tamarindo Oceanfront Luxury Reserve Villa",
+    "status": "ACTIVE",
+    "transaction_type": "RENTAL",
+    "property_type": "VILLA",
+    "featured": true,
+
+    "price": 4500,
+    "currency": "USD",
+    "price_period": "MONTH",
+
+    "address": "",
+    "neighborhood": "Tamarindo",
+    "location": "Tamarindo, Guanacaste, Costa Rica",
+    "city": "Tamarindo",
+    "province": "Guanacaste",
+    "country": "Costa Rica",
+    "postal_code": "",
+
+    "latitude": null,
+    "longitude": null,
+
+    "bedrooms": null,
+    "bathrooms": null,
+    "half_bathrooms": null,
+
+    "living_area": null,
+    "living_area_unit": "sqft",
+
+    "lot_area": null,
+    "lot_area_unit": "sqft",
+
+    "year_built": null,
+
+    "description": "",
+
+    "amenities": [],
+
+    "financing_available": false,
+    "financing_details": "",
+
+    "rental_income": null,
+    "rental_income_currency": "USD",
+    "rental_income_period": null,
+    "roi": null,
+
+    "image_urls": [
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+    ],
+
+    "video_urls": [],
+
+    "agent_name": "",
+    "agent_company": "Reserve Real Estate",
+    "agent_phone": "+1 647-848-5997",
+    "agent_email": "",
+    "whatsapp": "+16478485997",
+
+    "listing_url": "property-tamarindo-villa.html",
+
+    "created_at": "",
+    "updated_at": "",
+    "scraped_at": "",
+    "last_verified": ""
+  }
+]
